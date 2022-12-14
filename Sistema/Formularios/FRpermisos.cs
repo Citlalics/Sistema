@@ -8,13 +8,23 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Sistema
+namespace Sistema.Formularios
 {
-    public partial class Form1 : Form
+    public partial class FRpermisos : Form
     {
-        public Form1()
+        public FRpermisos()
         {
             InitializeComponent();
+        }
+
+        private void TXTNOMBREMODULO_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

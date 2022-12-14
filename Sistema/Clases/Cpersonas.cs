@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sistema.Clases
 {
-    class personas
+    class Cpersonas
     {
         
     }
